@@ -22,11 +22,17 @@
 
 
 ## 🎯 بخش‌های مختلف وبسایت
+
+<img src="https://github.com/mmdfarjoo/simple-site-theme/blob/main/screen%20shot%20.png" width="400" alt="screen shot">
+
+
 ### 🏠 صفحه اصلی
 - معرفی شخصی و تخصص‌ها
 - مهارت‌های فنی
 - اطلاعات تماس
 - لینک‌های شبکه‌های اجتماعی
+
+<img src="https://github.com/mmdfarjoo/simple-site-theme/blob/main/screen%20shot%202.png" width="400" alt="screen shot2">
 ### 📞 صفحه تماس
 - فرم تماس مستقیم
 - اطلاعات ارتباطی
